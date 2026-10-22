@@ -10,6 +10,6 @@ Our goal is to test whether unsupervised clustering of METABRIC gene expression 
 # Roles
 Sydney: Missingness plots and exploratory analysis, PCA, k-means clustering, lasso model + calibration, writing up sections on data + PCA + k-means + lasso
 
-Tirzah: Hierarchical clustering, comparison of clusters with PAM50, random forest, writing up sections on hierarchical clustering, stability, the forest and the baselines
+Tirzah: Hierarchical clustering, comparison of clusters with PAM50, random forest model, writing up sections on hierarchical clustering, stability, the forest and the baselines
 
 For more information, please see our comprehensive doc titled "METABRIC_Subtypes.pdf", thanks! :)
