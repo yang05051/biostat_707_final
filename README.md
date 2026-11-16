@@ -8,7 +8,7 @@ By: Sydney Shimizu (sydney.shimizu@duke.edu), Tirzah Asir (tirzah.asir@duke.edu)
 Our goal is to test whether unsupervised clustering of METABRIC gene expression recovers the PAM50 breast cancer subtypes, whether those clusters are stable under resampling, and how well regularized and tree-based models predict the subtype from a small gene set.
 
 ## Roles
-Sydney: Missingness plots and exploratory analysis, PCA, k-means clustering, lasso model + calibration, writing up sections on data + PCA + k-means + lasso
+Sydney: Missingness plots and exploratory analysis, PCA, and k-means clustering
 
 Ahmed: Negative controls and sensitivity runs; lasso model and its calibration. Write up sections on calibration, evaluation of lasso model Brier Score
 
